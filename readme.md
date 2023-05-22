@@ -1,10 +1,6 @@
-# IPFS docker registry 
-*Microservice for Converged* 
-
-
+# Deploy IPFS docker registry 
+ 
 ### Build image inside kubernetes
 `kubectl apply -f build/build.yaml`
 
-### Build
-`bash build/build.sh`
 
